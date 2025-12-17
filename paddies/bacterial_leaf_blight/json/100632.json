@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3188167787,
+      "width": 480,
+      "height": 640,
+      "file_name": "100632.jpg",
+      "size": 76496,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7084614787,
+      "image_id": 3188167787,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 307200,
+      "bbox": [
+        0,
+        0,
+        480,
+        640
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "bacterial_leaf_blight",
+      "supercategory": "Paddy Disease"
+    }
+  ]
+}
