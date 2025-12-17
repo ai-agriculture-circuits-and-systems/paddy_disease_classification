@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2237161635,
+      "width": 480,
+      "height": 640,
+      "file_name": "101655.jpg",
+      "size": 47821,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5105537635,
+      "image_id": 2237161635,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 307200,
+      "bbox": [
+        0,
+        0,
+        480,
+        640
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "hispa",
+      "supercategory": "Paddy Disease"
+    }
+  ]
+}
