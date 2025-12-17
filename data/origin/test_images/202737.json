@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6537410860,
+      "width": 480,
+      "height": 640,
+      "file_name": "202737.jpg",
+      "size": 96924,
+      "format": "JPEG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7527241860,
+      "image_id": 6537410860,
+      "category_id": 7,
+      "segmentation": [],
+      "area": 307200,
+      "bbox": [
+        0,
+        0,
+        480,
+        640
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "test_image",
+      "supercategory": "Paddy Disease"
+    }
+  ]
+}
